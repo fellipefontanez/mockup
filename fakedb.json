@@ -1,6 +1,6 @@
 
 
-[  
+[{  
     "Room1" : {  
       "location": "Denver, CO",
       "tags": ["Pool","Bath tube", "Seaside"],
@@ -56,4 +56,4 @@
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room2_photo1.jpg"
     }
   
-]
+}]
