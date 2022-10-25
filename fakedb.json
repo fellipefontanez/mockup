@@ -1,0 +1,59 @@
+
+
+{  
+    "Room 1" : {  
+      "location": "Denver, CO",
+      "tags": ["Pool","Bath tube", "Seaside"],
+      "price": 331,
+      "image": "roomOne"
+    },
+    "Room 2":{
+      "location": "Houton, TX",
+      "tags": ["Pool","Police"],
+      "price": 327,
+      "image": "roomTwo"
+    },
+    "Room 3":{
+      "location": "New York, NY",
+      "tags": ["AC","Bath tube", "Shoting range"],
+      "price": 356,
+      "image": "roomThree"
+    },
+    "Room 4" : {
+      "location": "Kansas City, KS",
+      "tags": ["Bath tube", "Room service"],
+      "price": 378,
+      "image": "roomFour"
+    },
+    "Room 5":{
+      "location": "Denver, CO",
+      "tags": ["Pool","Bath tube", "Seaside"],
+      "price": 245,
+      "image": "roomOne"
+    },
+    "Room 6":{
+      "location": "Washington, CO",
+      "tags": ["Pool","Soccer field", "Seaside"],
+      "price": 127,
+      "image": "roomFour"
+    },
+    "Room 7":{
+      "location": "Springfield, CO",
+      "tags": ["Pool","Suco de fruta", "Gigolo"],
+      "price": 384,
+      "image": "roomThree"
+    },
+    "Room 8":{
+      "location": "KOS, CO",
+      "tags": ["Pool","Cachorros", "Patinação no gelo"],
+      "price": 451,
+      "image": "roomOne"
+    },
+    "Room 9":{
+      "location": "São Paulo, BR",
+      "tags": ["Banheira", "Piscina", "Playground"],
+      "price": 550,
+      "image": "roomFive"
+    }
+  
+}
