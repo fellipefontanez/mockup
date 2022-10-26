@@ -1,59 +1,59 @@
 
 
-{  
-    "Room1" : {  
+[  
+    {  
       "location": "Denver, CO",
       "tags": ["Pool","Bath tube", "Seaside"],
       "price": 331,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room2_photo1.jpg"
     },
-    "Room2":{
+    {
       "location": "Houton, TX",
       "tags": ["Pool","Police"],
       "price": 327,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/houston.webp"
     },
-    "Room3":{
+    {
       "location": "New York, NY",
       "tags": ["AC","Bath tube", "Shoting range"],
       "price": 356,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room4_1photo.jpg"
     },
-    "Room4" : {
+    {
       "location": "Kansas City, KS",
       "tags": ["Bath tube", "Room service"],
       "price": 378,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room1_1photo.jpg"
     },
-    "Room5":{
+    {
       "location": "Denver, CO",
       "tags": ["Pool","Bath tube", "Seaside"],
       "price": 245,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room5_1photo.jpg"
     },
-    "Room6":{
+    {
       "location": "Washington, CO",
       "tags": ["Pool","Soccer field", "Seaside"],
       "price": 127,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room4_1photo.jpg"
     },
-    "Room7":{
+    {
       "location": "Springfield, CO",
       "tags": ["Pool","Suco de fruta", "Gigolo"],
       "price": 384,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/houston.webp"
     },
-    "Room8":{
+    {
       "location": "KOS, CO",
       "tags": ["Pool","Cachorros", "Patinação no gelo"],
       "price": 451,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room5_1photo.jpg"
     },
-    "Room9":{
+    {
       "location": "São Paulo, BR",
       "tags": ["Banheira", "Piscina", "Playground"],
       "price": 550,
       "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room2_photo1.jpg"
     }
   
-}
+]
