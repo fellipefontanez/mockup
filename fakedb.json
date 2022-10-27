@@ -17,25 +17,25 @@
       "location": "New York, NY",
       "tags": ["AC","Bath tube", "Shoting range"],
       "price": 356,
-      "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room3_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room3_1photo.jpg?raw=true"
     },
     {
       "location": "Kansas City, KS",
       "tags": ["Bath tube", "Room service"],
       "price": 378,
-      "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room1_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room2_1photo.jpg?raw=true"
     },
     {
       "location": "Denver, CO",
       "tags": ["Pool","Bath tube", "Seaside"],
       "price": 245,
-      "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room5_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room5_1photo.jpg?raw=true"
     },
     {
       "location": "Washington, CO",
       "tags": ["Pool","Soccer field", "Seaside"],
       "price": 127,
-      "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room4_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room1_1photo.jpg?raw=true"
     },
     {
       "location": "Springfield, CO",
@@ -47,7 +47,7 @@
       "location": "KOS, CO",
       "tags": ["Pool","Cachorros", "Patinação no gelo"],
       "price": 451,
-      "image": "https://github.com/fellipefontanez/mockup/tree/main/images/room5_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room2_1photo.jpg?raw=true"
     },
     {
       "location": "São Paulo, BR",
