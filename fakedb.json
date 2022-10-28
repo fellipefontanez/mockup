@@ -9,7 +9,7 @@
     },
     {
       "location": "Houton, TX",
-      "tags": ["Pool","Police"],
+      "tags": ["Pool","Security","Laundry"],
       "price": 327,
       "image": "https://raw.githubusercontent.com/fellipefontanez/mockup/main/images/houston.webp"
     },
@@ -39,13 +39,13 @@
     },
     {
       "location": "Springfield, CO",
-      "tags": ["Pool","Suco de fruta", "Gigolo"],
+      "tags": ["Pool","Green Area", "Breakfast"],
       "price": 384,
       "image": "https://raw.githubusercontent.com/fellipefontanez/mockup/main/images/houston.webp"
     },
     {
       "location": "KOS, CO",
-      "tags": ["Pool","Cachorros", "Patinação no gelo"],
+      "tags": ["Pool","Pet Friendly", "Ice Skating"],
       "price": 451,
       "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room2_photo1.jpg?raw=true"
     },
