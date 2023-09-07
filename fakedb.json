@@ -5,55 +5,73 @@
       "location": "Denver, CO",
       "tags": ["Pool","Bath tube", "Seaside"],
       "price": 331,
-      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room1_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room1_1photo.jpg?raw=true",
+      "address": "3770 Walnut St, Denver, CO 80205-2527",
+      "description": "This room will guarantee you a clean and beatiful overview of Denver. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
-      "location": "Houton, TX",
+      "location": "Houston, TX",
       "tags": ["Pool","Security","Laundry"],
       "price": 327,
-      "image": "https://raw.githubusercontent.com/fellipefontanez/mockup/main/images/houston.webp"
+      "image": "https://raw.githubusercontent.com/fellipefontanez/mockup/main/images/houston.webp",
+      "address": "701 Texas Avenue, Houston, TX 77002-2712",
+      "description": "This room will guarantee you a clean and beatiful overview of Houston. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
       "location": "New York, NY",
       "tags": ["AC","Bath tube", "Shoting range"],
       "price": 356,
-      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room3_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room3_1photo.jpg?raw=true",
+      "address": "560 7th Ave, Nova York, NY 10018",
+      "description": "This room will guarantee you a clean and beatiful overview of New York. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
       "location": "Kansas City, KS",
       "tags": ["Bath tube", "Room service"],
       "price": 378,
-      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room2_photo1.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room2_photo1.jpg?raw=true",
+      "address": "3770 Walnut St, Denver, CO 80205-2527",
+      "description": "This room will guarantee you a clean and beatiful overview of Kansas City. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
       "location": "Denver, CO",
       "tags": ["Pool","Bath tube", "Seaside"],
       "price": 245,
-      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room5_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room5_1photo.jpg?raw=true",
+      "address": "3770 Walnut St, Denver, CO 80205-2527",
+      "description": "This room will guarantee you a clean and beatiful overview of Denver. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
-      "location": "Washington, CO",
+      "location": "Washington DC, CO",
       "tags": ["Pool","Soccer field", "Seaside"],
       "price": 127,
-      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room1_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room1_1photo.jpg?raw=true",
+      "address": "1001 14th St NW, Washington DC, DC 20005",
+      "description": "This room will guarantee you a clean and beatiful overview of Washington DC. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
       "location": "Springfield, CO",
       "tags": ["Pool","Green Area", "Breakfast"],
       "price": 384,
-      "image": "https://raw.githubusercontent.com/fellipefontanez/mockup/main/images/houston.webp"
+      "image": "https://raw.githubusercontent.com/fellipefontanez/mockup/main/images/houston.webp",
+      "address": "27474 US Highway 287, Springfield, CO 81073-9409",
+      "description": "This room will guarantee you a clean and beatiful overview of Springfield. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
-      "location": "KOS, CO",
+      "location": "Los Angels, CA",
       "tags": ["Pool","Pet Friendly", "Ice Skating"],
       "price": 451,
-      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room2_photo1.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room2_photo1.jpg?raw=true",
+      "address": "4222 Vineland Ave North Hollywood, Los Angeles, CA 91602-3318",
+      "description": "This room will guarantee you a clean and beatiful overview of Los Angels. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     },
     {
       "location": "São Paulo, BR",
       "tags": ["Banheira", "Piscina", "Playground"],
       "price": 550,
-      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room5_1photo.jpg?raw=true"
+      "image": "https://github.com/fellipefontanez/mockup/blob/main/images/room5_1photo.jpg?raw=true",
+      "address": "Avenida 25 de Maio - 120, São Paulo, SP",
+      "description": "This room will guarantee you a clean and beatiful overview of São Paulo. Our room service is ready to attend the most sofisticated request. Book in and feel home."
     }
   
 ]
